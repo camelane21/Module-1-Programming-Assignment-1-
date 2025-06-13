@@ -1,4 +1,4 @@
-public class Exercise06_09 {
+public class Main {
 
     /** Convert from feet to meters */
     public static double footToMeter(double foot) {
